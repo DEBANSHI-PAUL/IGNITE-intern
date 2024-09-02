@@ -1,0 +1,1 @@
+ A comprehensive Housing Market Dashboard using Power BI, providing key insights into supply and demand across regions in India. From analyzing affordability to demographic trends, this project deepened my understanding of data-driven decision-making in real estate.
